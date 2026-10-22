@@ -1,3 +1,8 @@
+## My S3 buckets
+https://public-ufm3jx.s3.amazonaws.com/index.html
+https://www.gutenberg.org/ebooks/1184.txt.utf-8 secret-ufm3jx 604800
+I would choose a public bucket when i wanted public data like public images. I would choose a presigned URL when sharing private data like for a job.
+
 # Lab 06: Working with S3 Storage
 
 The goal of this lab is to get you comfortable with **Amazon S3** object storage, building on what you have learned about the command line, AWS accounts, and scripting. You will stage a collection of 100 books from [Project Gutenberg](https://www.gutenberg.org/) in a **public** bucket that anyone can browse in a web browser, and share a single book from a **private** bucket with a time-limited presigned URL.
